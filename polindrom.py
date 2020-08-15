@@ -1,5 +1,5 @@
 """
-the biggest polindron number deriver from mutltiplication of three_digit numbers
+the biggest polindrom number deriver from mutltiplication of three-digit numbers
 """
 z=[]
 for a in range(100, 1001):
